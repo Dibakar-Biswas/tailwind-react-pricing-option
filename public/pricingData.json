@@ -16,6 +16,7 @@
   {
     "id": 2,
     "plan_name": "Standard",
+    "popular": true,
     "price": "$50/month",
     "description": "Great for regular gym-goers who want more guidance and classes.",
     "features": [
